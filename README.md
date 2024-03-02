@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Trailblazing-Backend
+The robust server-side API powering Trailblazing, built with Ruby on Rails. This repository houses all the logic for user management, GPS data processing, trail storage, and analytics. Secure, scalable, and ready to support an engaging user experience for tracking and sharing outdoor journeys.
